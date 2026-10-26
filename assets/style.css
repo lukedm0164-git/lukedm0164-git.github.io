@@ -4,3 +4,6 @@
 /* SOC Lab design system v1.0 — preserve original dark theme and aqua branding */
 :root{--soc-navy:#12263f;--soc-blue:#76aaff;--soc-green:#268766;--soc-purple:#7360a8;--soc-red:#b4454a;--soc-amber:#f7c56c;--soc-slate:#52647b;--soc-light:#f5f8fc}
 .architecture-panel{padding:18px}.architecture-image{display:block;width:100%;height:auto;background:var(--soc-light);border-radius:12px;border:1px solid #40566b}.architecture-footer{display:flex;justify-content:space-between;align-items:center;gap:20px;flex-wrap:wrap;padding:20px 6px 2px}.architecture-footer p{margin:10px 0 0}.architecture-footer .btn{white-space:nowrap}@media(max-width:650px){.architecture-panel{padding:10px}.architecture-footer{padding:14px 5px}}
+
+/* Prevent wide diagrams or grid children from forcing horizontal page scroll. */
+html,body{max-width:100%;overflow-x:clip}.wrap,.panel,.architecture-panel{min-width:0}.architecture-panel{max-width:100%;overflow:hidden}.architecture-panel>a{display:block;width:100%;max-width:100%;overflow:hidden}.architecture-image{display:block;max-width:100%;width:100%;height:auto;max-height:470px;object-fit:contain;object-position:center}.architecture-footer>*{min-width:0}@media(max-width:650px){.architecture-image{max-height:300px}.architecture-footer .btn{white-space:normal}}

@@ -7,3 +7,19 @@
 
 /* Prevent wide diagrams or grid children from forcing horizontal page scroll. */
 html,body{max-width:100%;overflow-x:clip}.wrap,.panel,.architecture-panel{min-width:0}.architecture-panel{max-width:100%;overflow:hidden}.architecture-panel>a{display:block;width:100%;max-width:100%;overflow:hidden}.architecture-image{display:block;max-width:100%;width:100%;height:auto;max-height:470px;object-fit:contain;object-position:center}.architecture-footer>*{min-width:0}@media(max-width:650px){.architecture-image{max-height:300px}.architecture-footer .btn{white-space:normal}}
+
+/* Responsive detailed SOC topology, preserving existing site brand */
+.lab-topology{width:100%;max-width:100%;min-width:0;border:1px solid #35526c;border-radius:14px;background:#0b1727;padding:16px;overflow:hidden}
+.lab-topology-head{display:flex;justify-content:space-between;flex-wrap:wrap;gap:6px;color:#dcecf9;font-size:12px;padding:2px 4px 14px}.lab-topology-head span{color:#a6bad0}
+.lab-stage{border:1px solid;border-radius:11px;padding:12px;margin:0;min-width:0}.stage-attack{border-color:#b4454a;background:#281923}.stage-endpoints{border-color:#268766;background:#112820}.stage-monitor{border-color:#2b6cb0;background:#11233a}.stage-report{border-color:#7360a8;background:#211c38}
+.stage-label{font:700 11px 'Space Grotesk',sans-serif;letter-spacing:.12em;margin:0 0 11px;color:#f2f8ff}
+.lab-nodes{display:grid;grid-template-columns:repeat(auto-fit,minmax(min(100%,205px),1fr));gap:9px;min-width:0}
+.lab-node{display:flex;align-items:center;gap:10px;min-width:0;border:1px solid #41516a;border-radius:9px;background:#0d1829;padding:11px 10px}
+.lab-node img,.lab-logo-fallback{width:34px;height:34px;flex:0 0 34px;object-fit:contain}
+.lab-logo-fallback{display:grid;place-items:center;border-radius:9px;background:#2b6cb0;color:white;font:700 17px 'Space Grotesk',sans-serif}
+.lab-logo-fallback.iris{background:#7360a8}.lab-logo-fallback.studio{background:#268766;font-size:12px}
+.lab-node>div:last-child{min-width:0}.lab-node strong,.lab-node small,.lab-node span{display:block;overflow-wrap:anywhere}
+.lab-node strong{font-size:13px;color:#fff}.lab-node small{font:11px ui-monospace,Consolas,monospace;color:#9fd7ed;margin:4px 0}.lab-node span{font-size:11px;color:#bacbd9;line-height:1.35}
+.lab-flow{text-align:center;font-size:11px;color:#a9d6e4;padding:10px 3px;line-height:1.4}
+.lab-topology-note{font-size:11px;color:#b8cadd;padding:13px 3px 1px;line-height:1.5}
+@media(max-width:650px){.lab-topology{padding:10px}.lab-nodes{grid-template-columns:1fr}.lab-topology-head{font-size:10px}.lab-node{padding:9px}}

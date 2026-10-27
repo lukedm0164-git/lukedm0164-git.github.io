@@ -23,3 +23,6 @@ html,body{max-width:100%;overflow-x:clip}.wrap,.panel,.architecture-panel{min-wi
 .lab-flow{text-align:center;font-size:11px;color:#a9d6e4;padding:10px 3px;line-height:1.4}
 .lab-topology-note{font-size:11px;color:#b8cadd;padding:13px 3px 1px;line-height:1.5}
 @media(max-width:650px){.lab-topology{padding:10px}.lab-nodes{grid-template-columns:1fr}.lab-topology-head{font-size:10px}.lab-node{padding:9px}}
+
+/* Hard limits for lab logo sizing, including browsers with stale component rules */
+#lab-architecture .lab-tool-icon,#lab-architecture .lab-node img{width:36px!important;height:36px!important;max-width:36px!important;max-height:36px!important;min-width:36px!important;min-height:36px!important;object-fit:contain!important;display:block!important;flex:0 0 36px!important}#lab-architecture .lab-node{min-width:0!important;overflow:hidden!important}#lab-architecture .lab-nodes{min-width:0!important}#lab-architecture .lab-topology{width:100%;max-width:100%;box-sizing:border-box;overflow:hidden}#lab-architecture .architecture-panel{overflow:hidden;min-width:0}@media(max-width:850px){#lab-architecture .lab-nodes{grid-template-columns:repeat(auto-fit,minmax(min(100%,220px),1fr))!important}}@media(max-width:550px){#lab-architecture .lab-nodes{grid-template-columns:1fr!important}}

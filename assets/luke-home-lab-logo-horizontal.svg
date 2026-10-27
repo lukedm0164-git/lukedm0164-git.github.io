@@ -1,0 +1,31 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1800" height="750" viewBox="0 0 1800 750" role="img" aria-label="Luke’s Cybersecurity Home Lab — horizontal logo"><title>Luke’s Cybersecurity Home Lab — horizontal logo</title><defs><radialGradient id="bg"><stop stop-color="#082A4D"/><stop offset="1" stop-color="#03101F"/></radialGradient><linearGradient id="headBlue" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#1676D2"/><stop offset=".5" stop-color="#074378"/><stop offset="1" stop-color="#031A34"/></linearGradient><filter id="softGlow" x="-30%" y="-30%" width="160%" height="160%"><feGaussianBlur in="SourceGraphic" stdDeviation="1.2" result="blur"/><feMerge><feMergeNode in="blur"/><feMergeNode in="SourceGraphic"/></feMerge></filter></defs><rect width="100%" height="100%" fill="url(#bg)"/><g filter="url(#softGlow)">
+<circle cx="320" cy="340" r="255.84" fill="none" stroke="#0C62A6" stroke-width="2.08" opacity=".35" stroke-dasharray="10.4 12.48"/>
+<circle cx="320" cy="340" r="222.56" fill="none" stroke="#1676BD" stroke-width="3.12" opacity=".35" stroke-dasharray="60.32 22.880000000000003"/>
+<path d="M -85 60 C -125 110 -155 60 -165 0 L -203 -6" transform="translate(320 340) scale(1.04)" fill="none" stroke="#EAFBFF" stroke-width="17" stroke-linecap="round"/>
+<path d="M -85 60 C -125 110 -155 60 -165 0 L -203 -6" transform="translate(320 340) scale(1.04)" fill="none" stroke="#20C8F6" stroke-width="9" stroke-linecap="round"/>
+<path d="M 85 60 C 125 110 155 60 165 0 L 203 -6" transform="translate(320 340) scale(1.04)" fill="none" stroke="#EAFBFF" stroke-width="17" stroke-linecap="round"/>
+<path d="M 85 60 C 125 110 155 60 165 0 L 203 -6" transform="translate(320 340) scale(1.04)" fill="none" stroke="#20C8F6" stroke-width="9" stroke-linecap="round"/>
+<path d="M -80 93 C -120 146 -191 105 -216 79" transform="translate(320 340) scale(1.04)" fill="none" stroke="#EAFBFF" stroke-width="17" stroke-linecap="round"/>
+<path d="M -80 93 C -120 146 -191 105 -216 79" transform="translate(320 340) scale(1.04)" fill="none" stroke="#20C8F6" stroke-width="9" stroke-linecap="round"/>
+<path d="M 80 93 C 120 146 191 105 216 79" transform="translate(320 340) scale(1.04)" fill="none" stroke="#EAFBFF" stroke-width="17" stroke-linecap="round"/>
+<path d="M 80 93 C 120 146 191 105 216 79" transform="translate(320 340) scale(1.04)" fill="none" stroke="#20C8F6" stroke-width="9" stroke-linecap="round"/>
+<path d="M -56 125 C -100 160 -162 170 -179 191" transform="translate(320 340) scale(1.04)" fill="none" stroke="#EAFBFF" stroke-width="17" stroke-linecap="round"/>
+<path d="M -56 125 C -100 160 -162 170 -179 191" transform="translate(320 340) scale(1.04)" fill="none" stroke="#20C8F6" stroke-width="9" stroke-linecap="round"/>
+<path d="M 56 125 C 100 160 162 170 179 191" transform="translate(320 340) scale(1.04)" fill="none" stroke="#EAFBFF" stroke-width="17" stroke-linecap="round"/>
+<path d="M 56 125 C 100 160 162 170 179 191" transform="translate(320 340) scale(1.04)" fill="none" stroke="#20C8F6" stroke-width="9" stroke-linecap="round"/>
+<path d="M -27 133 C -63 195 -76 214 -87 238" transform="translate(320 340) scale(1.04)" fill="none" stroke="#EAFBFF" stroke-width="17" stroke-linecap="round"/>
+<path d="M -27 133 C -63 195 -76 214 -87 238" transform="translate(320 340) scale(1.04)" fill="none" stroke="#20C8F6" stroke-width="9" stroke-linecap="round"/>
+<path d="M 27 133 C 63 195 76 214 87 238" transform="translate(320 340) scale(1.04)" fill="none" stroke="#EAFBFF" stroke-width="17" stroke-linecap="round"/>
+<path d="M 27 133 C 63 195 76 214 87 238" transform="translate(320 340) scale(1.04)" fill="none" stroke="#20C8F6" stroke-width="9" stroke-linecap="round"/>
+<circle cx="108.88" cy="333.76" r="15.600000000000001" fill="#051B32" stroke="#E9FBFF" stroke-width="8.32"/><circle cx="108.88" cy="333.76" r="6.24" fill="#1CC8F5"/>
+<circle cx="531.12" cy="333.76" r="15.600000000000001" fill="#051B32" stroke="#E9FBFF" stroke-width="8.32"/><circle cx="531.12" cy="333.76" r="6.24" fill="#1CC8F5"/>
+<circle cx="95.35999999999999" cy="422.15999999999997" r="15.600000000000001" fill="#051B32" stroke="#E9FBFF" stroke-width="8.32"/><circle cx="95.35999999999999" cy="422.15999999999997" r="6.24" fill="#1CC8F5"/>
+<circle cx="544.64" cy="422.15999999999997" r="15.600000000000001" fill="#051B32" stroke="#E9FBFF" stroke-width="8.32"/><circle cx="544.64" cy="422.15999999999997" r="6.24" fill="#1CC8F5"/>
+<circle cx="133.84" cy="538.64" r="15.600000000000001" fill="#051B32" stroke="#E9FBFF" stroke-width="8.32"/><circle cx="133.84" cy="538.64" r="6.24" fill="#1CC8F5"/>
+<circle cx="506.15999999999997" cy="538.64" r="15.600000000000001" fill="#051B32" stroke="#E9FBFF" stroke-width="8.32"/><circle cx="506.15999999999997" cy="538.64" r="6.24" fill="#1CC8F5"/>
+<circle cx="229.51999999999998" cy="587.52" r="15.600000000000001" fill="#051B32" stroke="#E9FBFF" stroke-width="8.32"/><circle cx="229.51999999999998" cy="587.52" r="6.24" fill="#1CC8F5"/>
+<circle cx="410.48" cy="587.52" r="15.600000000000001" fill="#051B32" stroke="#E9FBFF" stroke-width="8.32"/><circle cx="410.48" cy="587.52" r="6.24" fill="#1CC8F5"/>
+<path d="M -104 58 C -110 10 -117 -68 -85 -115 C -45 -181 49 -181 89 -114 C 121 -64 110 14 104 58 C 93 100 62 131 0 140 C -61 130 -96 99 -104 58 Z" transform="translate(320 340) scale(1.04)" fill="url(#headBlue)" stroke="#E7FAFF" stroke-width="11.440000000000001"/>
+<path d="M -80 30 Q -46 13 -12 54 Q -38 87 -65 65 Z M 80 30 Q 46 13 12 54 Q 38 87 65 65 Z" transform="translate(320 340) scale(1.04)" fill="#25D9FA" stroke="#E8FFFF" stroke-width="3.12"/>
+<text x="320" y="294.24" text-anchor="middle" font-family="Arial,Helvetica,sans-serif" font-size="62.400000000000006" font-weight="800" fill="#B3EFFF" opacity=".42" letter-spacing="-6.24">LM</text>
+</g><g font-family="Arial,Helvetica,sans-serif" font-weight="800"><text x="640" y="300" font-size="88" fill="#F1FAFF" letter-spacing="3">LUKE’S</text><text x="640" y="400" font-size="84" fill="#F1FAFF" letter-spacing="1">CYBERSECURITY</text><text x="640" y="510" font-size="110" fill="#1DCBFA" letter-spacing="2">HOME LAB</text><path d="M640 552 H1660" stroke="#159FC8" stroke-width="3"/><text x="660" y="600" font-size="26" fill="#9BDFF6" letter-spacing="4">DETECT  •  INVESTIGATE  •  ANALYZE  •  REPORT</text></g></svg>

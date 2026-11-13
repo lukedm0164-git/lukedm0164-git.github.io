@@ -23,9 +23,9 @@ window.PORTFOLIO = {
     },
     {
       "id": "windows",
-      "title": "Windows & Active Directory",
-      "description": "Sysmon, Windows Event IDs, PowerShell telemetry, and identity security.",
-      "eyebrow": "Host Defense",
+      "title": "Active Directory & Jira IT Support",
+      "description": "Windows administration, Active Directory and Jira service desk project (upcoming).",
+      "eyebrow": "IT Support",
       "icon": "monitor",
       "href": "pages/windows.html"
     },

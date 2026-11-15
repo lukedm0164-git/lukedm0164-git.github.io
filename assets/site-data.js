@@ -11,7 +11,7 @@ window.PORTFOLIO = {
       "description": "Search Processing Language, correlation searches, alert triage, and dashboard engineering.",
       "eyebrow": "SIEM & Analytics",
       "icon": "terminal",
-      "href": "pages/splunk.html"
+      "href": "pages/splunk.html?v=20261114"
     },
     {
       "id": "wazuh",

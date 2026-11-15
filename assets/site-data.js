@@ -24,7 +24,7 @@ window.PORTFOLIO = {
     {
       "id": "windows",
       "title": "Active Directory & Jira IT Support",
-      "description": "Windows administration, Active Directory and Jira service desk project (upcoming).",
+      "description": "Windows Server Active Directory and Jira service desk: completed account lockout investigation, NTLM authentication analysis, and recovery.",
       "eyebrow": "IT Support",
       "icon": "monitor",
       "href": "pages/windows.html"
